@@ -1,5 +1,10 @@
 # FAQ ACCORDION
 
+<section data-markdown>
+  
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/faqAccordion.png)
+  
+</section>
 
 
 ## OBJETIVO
